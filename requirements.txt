@@ -1,0 +1,4 @@
+# Add all packages
+# numpy==version number
+streamlit
+
